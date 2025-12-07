@@ -1,4 +1,5 @@
 print("Hello from main.py!")
+print("Hello VSCode")
 def greet(name):
     return f"Hello, {name}!"
 
