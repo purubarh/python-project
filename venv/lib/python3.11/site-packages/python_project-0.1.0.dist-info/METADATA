@@ -9,6 +9,7 @@ Requires-Dist: numpy
 Requires-Dist: matplotlib
 Requires-Dist: altair
 Requires-Dist: scikit-learn
+Requires-Dist: seaborn
 
 # python-project
 

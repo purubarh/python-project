@@ -3,3 +3,4 @@ numpy
 matplotlib
 altair
 scikit-learn
+seaborn
